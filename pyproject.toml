@@ -22,8 +22,9 @@ dev = [
     "pytest-asyncio>=0.21.0",
 ]
 
-[project.scripts]
-job-search = "job_search_agent.cli:main"
+# CLI entry point - use search.py directly
+# [project.scripts]
+# job-search = "job_search_agent.cli:main"
 
 [tool.setuptools.packages.find]
 where = ["."]
