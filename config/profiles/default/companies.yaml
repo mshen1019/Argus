@@ -123,6 +123,9 @@ companies:
 - name: Renaissance Technologies
   career_url: https://www.rentec.com/Careers.action
   ats_type: custom
+- name: Reddit
+  career_url: https://boards.greenhouse.io/reddit
+  ats_type: greenhouse
 - name: Roblox
   career_url: https://boards.greenhouse.io/roblox
   ats_type: greenhouse
